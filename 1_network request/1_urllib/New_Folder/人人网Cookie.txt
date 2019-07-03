@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.renren.com	TRUE	/	FALSE	1565607705	_de	D74CD20ADA77B457AA76344FD74CF3E7
+.renren.com	TRUE	/	FALSE	1692183705	anonymid	jkxvvxhll42win
+.renren.com	TRUE	/	FALSE	1537095705	ln_hurl	http://head.xiaonei.com/photos/0/0/men_main.gif
+.renren.com	TRUE	/	FALSE	1537095705	ln_uact	17866673602
